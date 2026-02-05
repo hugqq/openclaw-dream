@@ -20,4 +20,5 @@
 - 哲学: free_will, meaning_of_life, identity, ethics_ai
 
 ## 待办
-- [ ] 更新dream-now.sh, 主动dream时直接让我生成完整内容
+- [x] 初始化memory目录和MEMORY.md
+- [x] 推送memory到GitHub
